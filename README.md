@@ -1,0 +1,2 @@
+# IZS
+Inżynierskie zastosowania statystyki
