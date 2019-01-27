@@ -1,2 +1,2 @@
 # IZS
-Inżynierskie zastosowania statystyki
+Inżynierskie zastosowania statystyki. Testownik do wyk?adu profesora RAFAJ?OWICZA.
