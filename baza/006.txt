@@ -1,6 +1,6 @@
-X1000
-Czy dla pary zmiennych losowych zawsze istnieje dystrybuanta ich ³¹cznego rozk³adu prawdopodobieñstwa?
-tak
-nie
-tylko wtedy, gdy istnieje ich ³¹czna gêstoœæ
-tylko wtedy, gdy istnieje gêstoœæ ka¿dej z osobna
+X0001
+Parametry najlepszego modelu liniowego dla obiektu o wejœciu x i wyjœciu y (dla przypadku pe³nej informacji probabilistycznej) s¹ wyliczane wed³ug wzoru:
+?
+?
+?
+E(y|x)

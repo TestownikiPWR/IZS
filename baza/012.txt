@@ -1,6 +1,3 @@
-X0010
-Proces stochastyczny opisywany przez H(w,t) przy ustalonym t jest (gdzie w to omega)
-przedzia³em ufnoœci
-dystrybuant¹ zmiennej losowej
-zmienn¹ losow¹ 
-liczb¹
+X1
+Gdy n>30 to z jakiego rozk³adu korzystamy?
+Rozk³ad normalny (dla n<30 rozk³ad t-Studenta)

@@ -1,6 +1,6 @@
-X0010
-Czy wspÛ≥czynnik kowariancji pary zmiennych, moøe przyjmnowaÊ wartoúci > 1?
-tylko dla dodatnich zmiennych
-tylko, gdy noúniki rozk≥adÛw sπ nieograniczone
-tak
-nie
+X0001
+Ryzyko ≈õrednie dla zero-jedynkowej funkcji strat, to:
+prawdopodobie≈Ñstwo poprawnej klasyfikacji
+prawdopodobie≈Ñstwo b≈Çƒôdnej klasyfikacji
+≈õrednie prawdopodobie≈Ñstwo braku decyzji klasyfikatora
+prawdopodobie≈Ñstwo pope≈Çnienia b≈Çƒôdu ≈õrednio-kwadratowego

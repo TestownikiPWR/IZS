@@ -1,6 +1,6 @@
-X0001
-Zmienna losowa X ma warto�� oczekiwan� 0 i wariancj� 1. Ile wynosi wariancja zmiennej losowej Y = X + 12?
-12
-10
-0.5
-1
+X0100 
+Estymator wartości średniej cechy statystycznej o rozkladzie normalnym o znanym odchyleniu standartowym równym б wyznaczony na podtawie n elementowej próby losowej, posiada odchylenie standartowe równe:
+б/n
+б/sqrt(n)
+б*n
+б*sqrt(n)

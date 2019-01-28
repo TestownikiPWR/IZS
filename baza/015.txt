@@ -1,6 +1,6 @@
-X0001
-Kt�ry z wymienionych rozk�ad�w nie ma wariancji:
-normalny
-wyk�adniczy
-Gauss'a
-Cauchy'ego
+X0010
+Obszar krytyczny testu istotności, to zbiór wyników, dla których: 
+test pozostaje nierozstrzygnięty
+uznajemy weryfikowaną hipotezę za prawdziwą
+uznajemy weryfikowaną hipotezę za fałszywą
+popełniamy łącznie błąd I i II rodzaju

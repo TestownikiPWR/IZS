@@ -1,6 +1,6 @@
-X0100
-Wariancja zmiennej losowej okreúla
-jej b≥πd úredniokwadratowy
-jej úredniokwadratowe odchylenie od wartoúci
-jej najbardziej prawdopodobnπ wartoúÊ
-jej poziom wiarygodnoúci wzglÍdem úredniej
+ X0100
+ Klasyfikator bayesowski dla rozk≈Çad√≥w normalnych cech w klasach z ro≈ºnymi macierzami kowariancji jest:
+ liniowy
+ odcinkami liniowy
+ kwadratowy
+ minimalno-odleg≈Ço≈õciowy
